@@ -1,0 +1,4 @@
+
+#Hourly announcement of time using bash script and mplayer to play audio files
+
+0 * * * * /usr/bin/bash /home/pi/Desktop/Alexa\ hourly/h.sh   > /dev/null 2>&1 
